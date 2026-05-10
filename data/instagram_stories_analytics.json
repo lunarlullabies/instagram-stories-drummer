@@ -292,5 +292,13 @@
         },
         "first_seen": "2026-05-09",
         "last_seen": "2026-05-09"
+    },
+    "stefanhallgren": {
+        "total_stories": 1,
+        "daily_counts": {
+            "2026-05-10": 1
+        },
+        "first_seen": "2026-05-10",
+        "last_seen": "2026-05-10"
     }
 }
