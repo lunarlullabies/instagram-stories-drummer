@@ -109,7 +109,7 @@
         "last_seen": "2026-05-09"
     },
     "realbaronen": {
-        "total_stories": 412,
+        "total_stories": 426,
         "daily_counts": {
             "2026-03-08": 13,
             "2026-03-09": 2,
@@ -173,7 +173,7 @@
             "2026-05-07": 6,
             "2026-05-08": 11,
             "2026-05-09": 1,
-            "2026-05-10": 1
+            "2026-05-10": 15
         },
         "first_seen": "2026-03-08",
         "last_seen": "2026-05-10"
@@ -288,17 +288,18 @@
         "last_seen": "2026-04-24"
     },
     "pontusbjorlund": {
-        "total_stories": 14,
+        "total_stories": 15,
         "daily_counts": {
-            "2026-05-09": 14
+            "2026-05-09": 14,
+            "2026-05-10": 1
         },
         "first_seen": "2026-05-09",
-        "last_seen": "2026-05-09"
+        "last_seen": "2026-05-10"
     },
     "stefanhallgren": {
-        "total_stories": 1,
+        "total_stories": 2,
         "daily_counts": {
-            "2026-05-10": 1
+            "2026-05-10": 2
         },
         "first_seen": "2026-05-10",
         "last_seen": "2026-05-10"
